@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T15:02:28" hostname="Kates-MBP.wit.ie" time="0.02">
+<testsuite name="MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-05T15:13:27" hostname="Kates-MBP.wit.ie" time="0.03">
   <properties/>
-  <testcase name="testOrderAndBoundaries()" classname="MainTest" time="0.02"/>
+  <testcase name="testDuplicates()" classname="MainTest" time="0.023"/>
+  <testcase name="testOrderAndBoundaries()" classname="MainTest" time="0.001"/>
+  <testcase name="testForOnlyOneNumber()" classname="MainTest" time="0.0"/>
+  <testcase name="testNegativeNumbers()" classname="MainTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
